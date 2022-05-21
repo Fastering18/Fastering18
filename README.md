@@ -2,7 +2,7 @@
 likes to teach people 😄👆  
 
 :incoming_envelope: Don't hestiate to contact me  
-**[Discord](https://discord.com/users/775363892167573535)&nbsp;&nbsp;|&nbsp;&nbsp;[Wangsaff](https://wa.me/625100879325) | [Twitter](https://twitter.com/FasteringDev)** 
+**[Discord](https://discord.com/users/775363892167573535)&nbsp;&nbsp;|&nbsp;&nbsp;[Wangsaff](https://wa.me/+6285100879325) | [Twitter](https://twitter.com/FasteringDev)** 
 
 <hr>
 
