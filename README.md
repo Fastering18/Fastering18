@@ -1,10 +1,13 @@
 ### Fastering18 
 likes to teach people 😄👆  
 
-#### languages
-- [x] JavaScript/Node.js
+:incoming_envelope: Don't hestiate to contact me  
+**[Discord](https://discord.com/users/775363892167573535)&nbsp;&nbsp;|&nbsp;&nbsp;[Wangsaff](https://wa.me/625100879325) | [Twitter](https://twitter.com/FasteringDev)** 
+
+#### languages :memo:
+- [x] JavaScript/Node.js ー server side✨
 - [x] Python
-- [x] Lua
+- [x] Lua/U
 - [x] [GBLK](https://github.com/Fastering18/node-gblok) ー because yes
 - [x] Dart
 - [x] C (still studying C++) 
