@@ -1,10 +1,12 @@
-### Fastering18 
+## Fastering18 
 likes to teach people 😄👆  
 
 :incoming_envelope: Don't hestiate to contact me  
 **[Discord](https://discord.com/users/775363892167573535)&nbsp;&nbsp;|&nbsp;&nbsp;[Wangsaff](https://wa.me/625100879325) | [Twitter](https://twitter.com/FasteringDev)** 
 
-#### languages :memo:
+<hr>
+
+### :memo: Languages
 - [x] JavaScript/Node.js ー server side✨
 - [x] Python
 - [x] Lua/U
