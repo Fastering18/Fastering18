@@ -12,11 +12,10 @@ Hi, I'm Muhammad Brahmana Priambudi, a software developer from Indonesia. I'm pa
 
 <hr>
 
-### :pencil: Languages
+### 📝 Languages
 - [x] JavaScript/Node.js ー server side ✨
 - [x] Python
 - [x] Lua/U
-- [x] [GBLK](https://github.com/Fastering18/node-gblok) ー because yes
 - [x] Bash
 - [x] Dart
 - [x] C (still studying C++) 
@@ -24,7 +23,7 @@ Hi, I'm Muhammad Brahmana Priambudi, a software developer from Indonesia. I'm pa
 - [x] Java
 - [ ] Go
 - [ ] Rust
-- [ ] [V](https://github.com/vlang/v) ー im waiting for 1.0 version 🗿
+- [ ] [mojo](https://www.modular.com/mojo) ー powerful language, waiting for windows version 🗿
 
 ### Quick chat (Discord):  [Ghosteez](https://discord.com/users/775363892167573535)  
 [![Ghosteez](https://discord.c99.nl/widget/theme-1/775363892167573535.png)](https://discord.com/users/775363892167573535) 
