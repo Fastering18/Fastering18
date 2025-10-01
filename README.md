@@ -1,6 +1,8 @@
 ## Fastering18 
 likes to teach people :smile::point_up_2:  
 
+Hi, I'm Muhammad Brahmana Priambudi, a software developer from Indonesia. I'm passionate about building projects ranging from backend services to full-stack web applications, and I also dive into Roblox game development. I enjoy sharing my knowledge and helping others learn to code.
+
 :incoming_envelope: Don't hestiate to contact me  
 <br>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/775363892167573535)
@@ -11,7 +13,7 @@ likes to teach people :smile::point_up_2:
 <hr>
 
 ### :pencil: Languages
-- [x] JavaScript/Node.js ー server side:sparkles:
+- [x] JavaScript/Node.js ー server side ✨
 - [x] Python
 - [x] Lua/U
 - [x] [GBLK](https://github.com/Fastering18/node-gblok) ー because yes
@@ -22,7 +24,7 @@ likes to teach people :smile::point_up_2:
 - [x] Java
 - [ ] Go
 - [ ] Rust
-- [ ] [V](https://github.com/vlang/v) ー im waiting for 1.0 version :moyai:
+- [ ] [V](https://github.com/vlang/v) ー im waiting for 1.0 version 🗿
 
 ### Quick chat (Discord):  [Ghosteez](https://discord.com/users/775363892167573535)  
 [![Ghosteez](https://discord.c99.nl/widget/theme-1/775363892167573535.png)](https://discord.com/users/775363892167573535) 
