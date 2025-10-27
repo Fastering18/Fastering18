@@ -25,7 +25,7 @@ Hi, I'm Muhammad Brahmana Priambudi, a software developer from Indonesia. I'm pa
 [![Mojo](https://img.shields.io/badge/Mojo-D74229?style=for-the-badge&logoColor=white)](https://www.modular.com/mojo)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&style=for-the-badge&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&style=for-the-badge&logoColor=white)](#)
-[![Roblox](https://img.shields.io/badge/Roblox-0000FF?logo=roblox&style=for-the-badge&logoColor=white)](#)
+[![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-0000FF?logo=roblox-studio&style=for-the-badge&logoColor=white)](#)
 
 
 ### Quick chat (Discord):  [Ghosteez](https://discord.com/users/775363892167573535)  
